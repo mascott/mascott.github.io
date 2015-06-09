@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a software developer based out of Oklahoma, and I mostly work with Ruby and Rails.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I have three kids and an amazing wife. Seriously amazing. She's cool with  me building an 
+Iron Man suit. Yeah, I know, I'm rediculous.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I'm also incredibly interested in 3d printing and am currently in the process of building
+a second printer. I love talking about it, so if you're interested please ask. Just be
+sure you have plenty of time available. 
+
