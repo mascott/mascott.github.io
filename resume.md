@@ -8,15 +8,25 @@ permalink: /resume/
 (405) 623-4290\\
 [scott.maslar@gmail.com](scott.maslar@gmail.com)
 
+
+------
+
+## Experience
+
+### PhishMe – Leesburg, VA #
+**Senior Developer** (July 2015 - Current)
+
+Maintain and expand legacy rails SAAS application. Pair on technical issues and perform code reviews.
+
 ------
  
 ## Experience
 
 ### Adfitech – Edmond, OK #
 **Developer** (Sep 2011-2012)\\
-**Lead Developer** (Mar 2012 – Current)
+**Lead Developer** (Mar 2012 – July 2015)
  
-Currently lead developer on a client facing web application using Ruby on Rails. The application uses Postgres, MySQL and a legacy database. Long running jobs are processed with Resque. Mentor junior developers and participate in performance reviews.
+Lead developer on a client facing web application using Ruby on Rails. The application uses Postgres, MySQL and a legacy database. Long running jobs are processed with Resque. Mentor junior developers and participate in performance reviews.
 
 Converting monolithic web applications to use Service Oriented Architecture. 
 
