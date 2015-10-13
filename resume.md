@@ -63,10 +63,10 @@ Minor in Mathematics
 
 ## References
 **Jake Wilkins**\\
-Adfitech Inc., Lead Architect
+Rogue Node, President
 
-**Tim Priebe**\\
-T&S Web Design, Owner / Sr. Programmer
+**Chad Gulley**\\
+Adfitech Inc., CTO
 
 **Matt Gambill**\\
 Chesapeake Energy, Sr. Engineering Analyst
