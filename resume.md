@@ -1,3 +1,9 @@
+---
+layout: page
+link_text: Resume
+permalink: /resume/
+---
+
 # Scott Maslar
 ## Senior Developer
 
